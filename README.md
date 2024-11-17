@@ -18,9 +18,9 @@
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
 ```
-* nodejs = v18.16.0
-* npm = v9.5.1
-* yarn = v1.22.19
+* nodejs = v18.16.0  *
+* npm = v9.5.1         *
+* yarn = v1.22.19       *
 
 * "react": "^18.2.0"
 * "react-dom": "^18.2.0"
